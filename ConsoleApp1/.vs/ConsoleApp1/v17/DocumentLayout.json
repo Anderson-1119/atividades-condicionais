@@ -3,8 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\anderson.osilva35\\Desktop\\atividades condicionais Anderson\\ConsoleApp1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5A0156A7-C100-43CB-B7FB-468CE726C8D7}|C\u00E1lculo do Desconto\\C\u00E1lculo do Desconto.csproj|c:\\users\\anderson.osilva35\\desktop\\atividades condicionais anderson\\consoleapp1\\c\u00E1lculo do desconto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0156A7-C100-43CB-B7FB-468CE726C8D7}|C\u00E1lculo do Desconto\\C\u00E1lculo do Desconto.csproj|solutionrelative:c\u00E1lculo do desconto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F635E7E2-691E-4911-A81E-FFD663AC507A}|Dia da Semana\\Dia da Semana.csproj|c:\\users\\anderson.osilva35\\desktop\\atividades condicionais anderson\\consoleapp1\\dia da semana\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F635E7E2-691E-4911-A81E-FFD663AC507A}|Dia da Semana\\Dia da Semana.csproj|solutionrelative:dia da semana\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2DB79A-0D26-4A88-B5BF-26175E1CFEF0}|Aprova\u00E7\u00E3o de Aluno\\Aprova\u00E7\u00E3o de Aluno.csproj|c:\\users\\anderson.osilva35\\desktop\\atividades condicionais anderson\\consoleapp1\\aprova\u00E7\u00E3o de aluno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2DB79A-0D26-4A88-B5BF-26175E1CFEF0}|Aprova\u00E7\u00E3o de Aluno\\Aprova\u00E7\u00E3o de Aluno.csproj|solutionrelative:aprova\u00E7\u00E3o de aluno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208E6D33-EC5F-456C-97CE-55744E4BBE66}|Intervalo de Valores\\Intervalo de Valores.csproj|c:\\users\\anderson.osilva35\\desktop\\atividades condicionais anderson\\consoleapp1\\intervalo de valores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208E6D33-EC5F-456C-97CE-55744E4BBE66}|Intervalo de Valores\\Intervalo de Valores.csproj|solutionrelative:intervalo de valores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD42501-4C76-4AF0-919D-6B5CF61D1753}|numero positivo ou negativo\\numero positivo ou negativo.csproj|c:\\users\\anderson.osilva35\\desktop\\atividades condicionais anderson\\consoleapp1\\numero positivo ou negativo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD42501-4C76-4AF0-919D-6B5CF61D1753}|numero positivo ou negativo\\numero positivo ou negativo.csproj|solutionrelative:numero positivo ou negativo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8250168E-0229-4DDC-A7F1-ADD93C0B579E}|Verifica\u00E7\u00E3o de Vota\u00E7\u00E3o\\Verifica\u00E7\u00E3o de Vota\u00E7\u00E3o.csproj|c:\\users\\anderson.osilva35\\desktop\\atividades condicionais anderson\\consoleapp1\\verifica\u00E7\u00E3o de vota\u00E7\u00E3o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8250168E-0229-4DDC-A7F1-ADD93C0B579E}|Verifica\u00E7\u00E3o de Vota\u00E7\u00E3o\\Verifica\u00E7\u00E3o de Vota\u00E7\u00E3o.csproj|solutionrelative:verifica\u00E7\u00E3o de vota\u00E7\u00E3o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{547546FC-F6BD-43E6-917D-DAA3372FDB10}|Compara\u00E7\u00E3o de N\u00FAmeros\\Compara\u00E7\u00E3o de N\u00FAmeros.csproj|c:\\users\\anderson.osilva35\\desktop\\atividades condicionais anderson\\consoleapp1\\compara\u00E7\u00E3o de n\u00FAmeros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{547546FC-F6BD-43E6-917D-DAA3372FDB10}|Compara\u00E7\u00E3o de N\u00FAmeros\\Compara\u00E7\u00E3o de N\u00FAmeros.csproj|solutionrelative:compara\u00E7\u00E3o de n\u00FAmeros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D4A0B1-93C1-4E9F-AF98-D7FC4E694074}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\anderson.osilva35\\desktop\\atividades condicionais anderson\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D4A0B1-93C1-4E9F-AF98-D7FC4E694074}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2FCABECE-6DB6-43DA-95C7-59917712718C}|Classifica\u00E7\u00E3o de Notas\\Classifica\u00E7\u00E3o de Notas.csproj|c:\\users\\anderson.osilva35\\desktop\\atividades condicionais anderson\\consoleapp1\\classifica\u00E7\u00E3o de notas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,22 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1F233784-1908-4C78-9C7A-A19C6D2490E3}|Verifica\u00E7\u00E3o de Idade\\Verifica\u00E7\u00E3o de Idade.csproj|c:\\users\\anderson.osilva35\\desktop\\atividades condicionais anderson\\consoleapp1\\verifica\u00E7\u00E3o de idade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F233784-1908-4C78-9C7A-A19C6D2490E3}|Verifica\u00E7\u00E3o de Idade\\Verifica\u00E7\u00E3o de Idade.csproj|solutionrelative:verifica\u00E7\u00E3o de idade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{208E6D33-EC5F-456C-97CE-55744E4BBE66}|Intervalo de Valores\\Intervalo de Valores.csproj|c:\\users\\anderson.osilva35\\desktop\\atividades condicionais anderson\\consoleapp1\\intervalo de valores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{208E6D33-EC5F-456C-97CE-55744E4BBE66}|Intervalo de Valores\\Intervalo de Valores.csproj|solutionrelative:intervalo de valores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA2DB79A-0D26-4A88-B5BF-26175E1CFEF0}|Aprova\u00E7\u00E3o de Aluno\\Aprova\u00E7\u00E3o de Aluno.csproj|c:\\users\\anderson.osilva35\\desktop\\atividades condicionais anderson\\consoleapp1\\aprova\u00E7\u00E3o de aluno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA2DB79A-0D26-4A88-B5BF-26175E1CFEF0}|Aprova\u00E7\u00E3o de Aluno\\Aprova\u00E7\u00E3o de Aluno.csproj|solutionrelative:aprova\u00E7\u00E3o de aluno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5D4A0B1-93C1-4E9F-AF98-D7FC4E694074}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\anderson.osilva35\\desktop\\atividades condicionais anderson\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5D4A0B1-93C1-4E9F-AF98-D7FC4E694074}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FD42501-4C76-4AF0-919D-6B5CF61D1753}|numero positivo ou negativo\\numero positivo ou negativo.csproj|c:\\users\\anderson.osilva35\\desktop\\atividades condicionais anderson\\consoleapp1\\numero positivo ou negativo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FD42501-4C76-4AF0-919D-6B5CF61D1753}|numero positivo ou negativo\\numero positivo ou negativo.csproj|solutionrelative:numero positivo ou negativo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,28 +50,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\anderson.osilva35\\Desktop\\atividades condicionais Anderson\\ConsoleApp1\\Compara\u00E7\u00E3o de N\u00FAmeros\\Program.cs",
-              "RelativeDocumentMoniker": "Compara\u00E7\u00E3o de N\u00FAmeros\\Program.cs",
-              "ToolTip": "C:\\Users\\anderson.osilva35\\Desktop\\atividades condicionais Anderson\\ConsoleApp1\\Compara\u00E7\u00E3o de N\u00FAmeros\\Program.cs",
-              "RelativeToolTip": "Compara\u00E7\u00E3o de N\u00FAmeros\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T17:36:02.251Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anderson.osilva35\\Desktop\\atividades condicionais Anderson\\ConsoleApp1\\C\u00E1lculo do Desconto\\Program.cs",
+              "RelativeDocumentMoniker": "C\u00E1lculo do Desconto\\Program.cs",
+              "ToolTip": "C:\\Users\\anderson.osilva35\\Desktop\\atividades condicionais Anderson\\ConsoleApp1\\C\u00E1lculo do Desconto\\Program.cs",
+              "RelativeToolTip": "C\u00E1lculo do Desconto\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T18:27:54.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anderson.osilva35\\Desktop\\atividades condicionais Anderson\\ConsoleApp1\\Dia da Semana\\Program.cs",
+              "RelativeDocumentMoniker": "Dia da Semana\\Program.cs",
+              "ToolTip": "C:\\Users\\anderson.osilva35\\Desktop\\atividades condicionais Anderson\\ConsoleApp1\\Dia da Semana\\Program.cs",
+              "RelativeToolTip": "Dia da Semana\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T18:14:06.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anderson.osilva35\\Desktop\\atividades condicionais Anderson\\ConsoleApp1\\Verifica\u00E7\u00E3o de Vota\u00E7\u00E3o\\Program.cs",
+              "RelativeDocumentMoniker": "Verifica\u00E7\u00E3o de Vota\u00E7\u00E3o\\Program.cs",
+              "ToolTip": "C:\\Users\\anderson.osilva35\\Desktop\\atividades condicionais Anderson\\ConsoleApp1\\Verifica\u00E7\u00E3o de Vota\u00E7\u00E3o\\Program.cs",
+              "RelativeToolTip": "Verifica\u00E7\u00E3o de Vota\u00E7\u00E3o\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T18:09:51.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anderson.osilva35\\Desktop\\atividades condicionais Anderson\\ConsoleApp1\\Compara\u00E7\u00E3o de N\u00FAmeros\\Program.cs",
+              "RelativeDocumentMoniker": "Compara\u00E7\u00E3o de N\u00FAmeros\\Program.cs",
+              "ToolTip": "C:\\Users\\anderson.osilva35\\Desktop\\atividades condicionais Anderson\\ConsoleApp1\\Compara\u00E7\u00E3o de N\u00FAmeros\\Program.cs",
+              "RelativeToolTip": "Compara\u00E7\u00E3o de N\u00FAmeros\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T17:36:02.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\anderson.osilva35\\Desktop\\atividades condicionais Anderson\\ConsoleApp1\\Classifica\u00E7\u00E3o de Notas\\Program.cs",
               "RelativeDocumentMoniker": "Classifica\u00E7\u00E3o de Notas\\Program.cs",
@@ -72,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\anderson.osilva35\\Desktop\\atividades condicionais Anderson\\ConsoleApp1\\Verifica\u00E7\u00E3o de Idade\\Program.cs",
               "RelativeDocumentMoniker": "Verifica\u00E7\u00E3o de Idade\\Program.cs",
@@ -80,8 +131,7 @@
               "RelativeToolTip": "Verifica\u00E7\u00E3o de Idade\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T17:22:24.382Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T17:22:24.382Z"
             },
             {
               "$type": "Document",
@@ -98,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\anderson.osilva35\\Desktop\\atividades condicionais Anderson\\ConsoleApp1\\Aprova\u00E7\u00E3o de Aluno\\Program.cs",
               "RelativeDocumentMoniker": "Aprova\u00E7\u00E3o de Aluno\\Program.cs",
@@ -111,7 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\anderson.osilva35\\Desktop\\atividades condicionais Anderson\\ConsoleApp1\\numero positivo ou negativo\\Program.cs",
               "RelativeDocumentMoniker": "numero positivo ou negativo\\Program.cs",
@@ -124,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\anderson.osilva35\\Desktop\\atividades condicionais Anderson\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",

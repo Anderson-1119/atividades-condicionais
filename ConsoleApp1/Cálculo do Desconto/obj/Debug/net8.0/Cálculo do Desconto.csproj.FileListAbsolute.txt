@@ -1,0 +1,15 @@
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Cálculo do Desconto\bin\Debug\net8.0\Cálculo do Desconto.exe
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Cálculo do Desconto\bin\Debug\net8.0\Cálculo do Desconto.deps.json
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Cálculo do Desconto\bin\Debug\net8.0\Cálculo do Desconto.runtimeconfig.json
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Cálculo do Desconto\bin\Debug\net8.0\Cálculo do Desconto.dll
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Cálculo do Desconto\bin\Debug\net8.0\Cálculo do Desconto.pdb
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Cálculo do Desconto\obj\Debug\net8.0\Cálculo do Desconto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Cálculo do Desconto\obj\Debug\net8.0\Cálculo do Desconto.AssemblyInfoInputs.cache
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Cálculo do Desconto\obj\Debug\net8.0\Cálculo do Desconto.AssemblyInfo.cs
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Cálculo do Desconto\obj\Debug\net8.0\Cálculo do Desconto.csproj.CoreCompileInputs.cache
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Cálculo do Desconto\obj\Debug\net8.0\Cálculo do Desconto.sourcelink.json
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Cálculo do Desconto\obj\Debug\net8.0\Cálculo do Desconto.dll
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Cálculo do Desconto\obj\Debug\net8.0\refint\Cálculo do Desconto.dll
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Cálculo do Desconto\obj\Debug\net8.0\Cálculo do Desconto.pdb
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Cálculo do Desconto\obj\Debug\net8.0\Cálculo do Desconto.genruntimeconfig.cache
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Cálculo do Desconto\obj\Debug\net8.0\ref\Cálculo do Desconto.dll

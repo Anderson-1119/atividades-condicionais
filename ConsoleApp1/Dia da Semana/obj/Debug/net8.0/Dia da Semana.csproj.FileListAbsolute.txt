@@ -1,0 +1,15 @@
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Dia da Semana\bin\Debug\net8.0\Dia da Semana.exe
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Dia da Semana\bin\Debug\net8.0\Dia da Semana.deps.json
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Dia da Semana\bin\Debug\net8.0\Dia da Semana.runtimeconfig.json
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Dia da Semana\bin\Debug\net8.0\Dia da Semana.dll
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Dia da Semana\bin\Debug\net8.0\Dia da Semana.pdb
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Dia da Semana\obj\Debug\net8.0\Dia da Semana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Dia da Semana\obj\Debug\net8.0\Dia da Semana.AssemblyInfoInputs.cache
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Dia da Semana\obj\Debug\net8.0\Dia da Semana.AssemblyInfo.cs
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Dia da Semana\obj\Debug\net8.0\Dia da Semana.csproj.CoreCompileInputs.cache
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Dia da Semana\obj\Debug\net8.0\Dia da Semana.sourcelink.json
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Dia da Semana\obj\Debug\net8.0\Dia da Semana.dll
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Dia da Semana\obj\Debug\net8.0\refint\Dia da Semana.dll
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Dia da Semana\obj\Debug\net8.0\Dia da Semana.pdb
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Dia da Semana\obj\Debug\net8.0\Dia da Semana.genruntimeconfig.cache
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Dia da Semana\obj\Debug\net8.0\ref\Dia da Semana.dll

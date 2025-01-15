@@ -1,0 +1,15 @@
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Verificação de Votação\bin\Debug\net8.0\Verificação de Votação.exe
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Verificação de Votação\bin\Debug\net8.0\Verificação de Votação.deps.json
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Verificação de Votação\bin\Debug\net8.0\Verificação de Votação.runtimeconfig.json
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Verificação de Votação\bin\Debug\net8.0\Verificação de Votação.dll
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Verificação de Votação\bin\Debug\net8.0\Verificação de Votação.pdb
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Verificação de Votação\obj\Debug\net8.0\Verificação de Votação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Verificação de Votação\obj\Debug\net8.0\Verificação de Votação.AssemblyInfoInputs.cache
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Verificação de Votação\obj\Debug\net8.0\Verificação de Votação.AssemblyInfo.cs
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Verificação de Votação\obj\Debug\net8.0\Verificação de Votação.csproj.CoreCompileInputs.cache
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Verificação de Votação\obj\Debug\net8.0\Verificação de Votação.sourcelink.json
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Verificação de Votação\obj\Debug\net8.0\Verificação de Votação.dll
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Verificação de Votação\obj\Debug\net8.0\refint\Verificação de Votação.dll
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Verificação de Votação\obj\Debug\net8.0\Verificação de Votação.pdb
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Verificação de Votação\obj\Debug\net8.0\Verificação de Votação.genruntimeconfig.cache
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Verificação de Votação\obj\Debug\net8.0\ref\Verificação de Votação.dll
