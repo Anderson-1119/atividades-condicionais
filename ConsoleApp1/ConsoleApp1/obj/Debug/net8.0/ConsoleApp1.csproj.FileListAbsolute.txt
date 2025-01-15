@@ -1,0 +1,14 @@
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll

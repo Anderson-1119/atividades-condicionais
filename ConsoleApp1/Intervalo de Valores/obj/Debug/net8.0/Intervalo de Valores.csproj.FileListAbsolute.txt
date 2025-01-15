@@ -1,0 +1,14 @@
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Intervalo de Valores\bin\Debug\net8.0\Intervalo de Valores.exe
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Intervalo de Valores\bin\Debug\net8.0\Intervalo de Valores.deps.json
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Intervalo de Valores\bin\Debug\net8.0\Intervalo de Valores.runtimeconfig.json
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Intervalo de Valores\bin\Debug\net8.0\Intervalo de Valores.dll
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Intervalo de Valores\bin\Debug\net8.0\Intervalo de Valores.pdb
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Intervalo de Valores\obj\Debug\net8.0\Intervalo de Valores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Intervalo de Valores\obj\Debug\net8.0\Intervalo de Valores.AssemblyInfoInputs.cache
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Intervalo de Valores\obj\Debug\net8.0\Intervalo de Valores.AssemblyInfo.cs
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Intervalo de Valores\obj\Debug\net8.0\Intervalo de Valores.csproj.CoreCompileInputs.cache
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Intervalo de Valores\obj\Debug\net8.0\Intervalo de Valores.dll
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Intervalo de Valores\obj\Debug\net8.0\refint\Intervalo de Valores.dll
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Intervalo de Valores\obj\Debug\net8.0\Intervalo de Valores.pdb
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Intervalo de Valores\obj\Debug\net8.0\Intervalo de Valores.genruntimeconfig.cache
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Intervalo de Valores\obj\Debug\net8.0\ref\Intervalo de Valores.dll

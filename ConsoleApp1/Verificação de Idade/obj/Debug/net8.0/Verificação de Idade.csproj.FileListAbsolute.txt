@@ -1,0 +1,14 @@
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Verificação de Idade\obj\Debug\net8.0\Verificação de Idade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Verificação de Idade\obj\Debug\net8.0\Verificação de Idade.AssemblyInfoInputs.cache
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Verificação de Idade\obj\Debug\net8.0\Verificação de Idade.AssemblyInfo.cs
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Verificação de Idade\obj\Debug\net8.0\Verificação de Idade.csproj.CoreCompileInputs.cache
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Verificação de Idade\bin\Debug\net8.0\Verificação de Idade.exe
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Verificação de Idade\bin\Debug\net8.0\Verificação de Idade.deps.json
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Verificação de Idade\bin\Debug\net8.0\Verificação de Idade.runtimeconfig.json
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Verificação de Idade\bin\Debug\net8.0\Verificação de Idade.dll
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Verificação de Idade\bin\Debug\net8.0\Verificação de Idade.pdb
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Verificação de Idade\obj\Debug\net8.0\Verificação de Idade.dll
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Verificação de Idade\obj\Debug\net8.0\refint\Verificação de Idade.dll
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Verificação de Idade\obj\Debug\net8.0\Verificação de Idade.pdb
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Verificação de Idade\obj\Debug\net8.0\Verificação de Idade.genruntimeconfig.cache
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Verificação de Idade\obj\Debug\net8.0\ref\Verificação de Idade.dll

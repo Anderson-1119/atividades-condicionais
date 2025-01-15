@@ -1,0 +1,14 @@
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Aprovação de Aluno\bin\Debug\net8.0\Aprovação de Aluno.exe
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Aprovação de Aluno\bin\Debug\net8.0\Aprovação de Aluno.deps.json
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Aprovação de Aluno\bin\Debug\net8.0\Aprovação de Aluno.runtimeconfig.json
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Aprovação de Aluno\bin\Debug\net8.0\Aprovação de Aluno.dll
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Aprovação de Aluno\bin\Debug\net8.0\Aprovação de Aluno.pdb
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Aprovação de Aluno\obj\Debug\net8.0\Aprovação de Aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Aprovação de Aluno\obj\Debug\net8.0\Aprovação de Aluno.AssemblyInfoInputs.cache
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Aprovação de Aluno\obj\Debug\net8.0\Aprovação de Aluno.AssemblyInfo.cs
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Aprovação de Aluno\obj\Debug\net8.0\Aprovação de Aluno.csproj.CoreCompileInputs.cache
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Aprovação de Aluno\obj\Debug\net8.0\Aprovação de Aluno.dll
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Aprovação de Aluno\obj\Debug\net8.0\refint\Aprovação de Aluno.dll
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Aprovação de Aluno\obj\Debug\net8.0\Aprovação de Aluno.pdb
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Aprovação de Aluno\obj\Debug\net8.0\Aprovação de Aluno.genruntimeconfig.cache
+C:\Users\anderson.osilva35\Desktop\atividades condicionais Anderson\ConsoleApp1\Aprovação de Aluno\obj\Debug\net8.0\ref\Aprovação de Aluno.dll
